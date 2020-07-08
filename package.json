@@ -1,5 +1,6 @@
 {
   "name": "webpack-praktikum",
+  "homepage": "https://stasbasov.github.io/form/",
   "version": "1.0.0",
   "description": "A trial project to reproduce the trainer instructions",
   "main": "index.js",
